@@ -30,7 +30,7 @@ struct LandmarkList: View {
                     }
                 }
             }
-            .navigationTitle("Landmarks")
+            .navigationTitle("Places to visit")
         }
     }
 }
